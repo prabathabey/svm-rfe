@@ -1,0 +1,10 @@
+name: svm-rfe
+channels:
+  - cvxgrp
+dependencies:
+  - cvxpy=0.4.9=py27_0
+  - python=2.7.16
+  - scikit-learn=0.20.3
+  - pandas=0.24.2
+  - numpy=1.16.3
+  - matplotlib=2.2.3
